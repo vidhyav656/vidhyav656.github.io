@@ -1,3 +1,3 @@
-# vidhyav656.github.io
+# Vidhya Venkatesan
 
 Personal Portfolio
