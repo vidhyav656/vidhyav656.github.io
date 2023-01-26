@@ -100,8 +100,8 @@ author:
   name             : "Vidhya Venkatesan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Mumbai, India"
+  email            : "me@vidhyav656.tech"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -125,24 +125,43 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: ""
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/vidhyav656
-    - label: "Facebook"
+    - label: ""
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
+      url: https://www.facebook.com/vidhyav656
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: https://github.com/vidhyav656
-    - label: "GitLab"
+    - label: ""
       icon: "fab fa-fw fa-gitlab"
       url: https://gitlab.com/vidhyav656
-    - label: "Bitbucket"
+    - label: ""
       icon: "fab fa-fw fa-bitbucket"
       url: https://bitbucket.com/vidhyav656
-    - label: "Instagram"
+    - label: ""
       icon: "fab fa-fw fa-instagram"
       url: https://instagram.com/vidhyav656
+    - label: ""
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/vidhyav656/
+    - label: ""
+      icon: "fab fa-fw fa-dribbble"
+      url: https://dribbble.com/vidhyav656
+    - label: ""
+      icon: "fab fa-fw fa-quora"
+      url: https://www.quora.com/profile/VidhyaVenkatesan
+    - label: ""
+      icon: "fab fa-fw fa-dev"
+      url: https://dev.to/vidhyav656
+    - label: ""
+      icon: "fab fa-fw fa-medium"
+      url: https://medium.com/@vidhyav656
+    - label: ""
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/@vidhyav656/
+
 
 # Reading Files
 include:
