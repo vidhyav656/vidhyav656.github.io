@@ -1,5 +1,6 @@
 ---
 title: "About"
+permalink: /about/
 date: 2023-01-26T03:02:20+00:00
 ---
 

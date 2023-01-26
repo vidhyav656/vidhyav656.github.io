@@ -144,7 +144,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: https://instagram.com/vidhyav656
 
-
 # Reading Files
 include:
   - .htaccess
@@ -269,11 +268,32 @@ compress_html:
   ignore:
     envs: development
 
+# Collection
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
 
-# Defaults
 defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  # _pages
+  -
+    scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _posts
-  - scope:
+  -
+    scope:
       path: ""
       type: posts
     values:
