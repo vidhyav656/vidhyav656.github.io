@@ -104,9 +104,6 @@ author:
   location         : "Mumbai, India"
   email            : "me@vidhyav656.tech"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:me@vidhyav656.tech"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://vidhyav656.tech"
