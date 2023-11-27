@@ -20,7 +20,7 @@ Technical skills:
 - Jekyll | Hugo
 - Liferay UI Developer | Frontend Liferay Developer
 - Frontend Web Developer | Content Management Systems (CMS)
-- HTML & Cascading Style Sheets (CSS)
+- HTML & Cascading Style Sheets (CSS) |
 - Bootstrap | JavaScript | jQuery |
 - Git | Github | Gitlab | Bitbucket
 
