@@ -1,16 +1,31 @@
 ---
 title: "About"
 permalink: /about/
-date: 2023-01-26T03:02:20+00:00
+date: 2023-11-27T03:02:20+00:00
 seo_description: about me
 ---
 
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+As a web developer with over 7 years of experience, I have a proven track record of delivering high-quality websites that exceed my clients' expectations.
 
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
+I am passionate about using the latest technologies and tools to create innovative and engaging user experiences. Whether it's building a custom CMS or integrating the latest AI technology, I am always up for a challenge.
 
-...or something like this:
+Let's connect and see how I can help bring your web development projects to life.
 
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
+Expertise:
+- Web development
+- Responsive web design
+- Rapid prototyping and deployment
 
-You should probably delete this page and create new pages for your content. Have fun!
+Technical skills:
+- Jekyll | Hugo
+- Liferay UI Developer | Frontend Liferay Developer
+- Frontend Web Developer | Content Management Systems (CMS)
+- HTML & Cascading Style Sheets (CSS)
+- Bootstrap | JavaScript | jQuery |
+- Git | Github | Gitlab | Bitbucket
+
+Achievements:
+- Worked on multiple projects in a team of 20 members across various verticals
+- Designed and developed 24 foreign office websites for State Bank of India (SBI) in Belgium, UK, USA, Canada, Australia, Bangladesh, Nepal, Seoul, Germany, Hong Kong, Maldives, Mauritius, Singapore, South Africa, Japan, Dubai, China, Sri Lanka, Singapore, Oman and many more.
+- Worked on projects sub-contracted by reputed clients/ companies like WIPRO, State Bank of India
+- Designed and developed websites for clients across the globe in USA, Canada, Germany, UK, and India
