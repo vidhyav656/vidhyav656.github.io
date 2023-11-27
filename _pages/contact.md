@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 permalink: /contact/
-date: 2023-01-26T03:02:20+00:00
+date: 2023-11-27T03:02:20+00:00
 seo_description: contact me 
 ---
 
