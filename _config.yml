@@ -127,17 +127,8 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/vidhyav656
     - label: ""
-      icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/vidhyav656
-    - label: ""
       icon: "fab fa-fw fa-github"
       url: https://github.com/vidhyav656
-    - label: ""
-      icon: "fab fa-fw fa-gitlab"
-      url: https://gitlab.com/vidhyav656
-    - label: ""
-      icon: "fab fa-fw fa-bitbucket"
-      url: https://bitbucket.com/vidhyav656
     - label: ""
       icon: "fab fa-fw fa-instagram"
       url: https://instagram.com/vidhyav656
