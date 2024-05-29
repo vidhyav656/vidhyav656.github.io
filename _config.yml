@@ -144,21 +144,7 @@ footer:
     - label: ""
       icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/in/vidhyav656/
-    - label: ""
-      icon: "fab fa-fw fa-dribbble"
-      url: https://dribbble.com/vidhyav656
-    - label: ""
-      icon: "fab fa-fw fa-quora"
-      url: https://www.quora.com/profile/VidhyaVenkatesan
-    - label: ""
-      icon: "fab fa-fw fa-dev"
-      url: https://dev.to/vidhyav656
-    - label: ""
-      icon: "fab fa-fw fa-medium"
-      url: https://medium.com/@vidhyav656
-    - label: ""
-      icon: "fab fa-fw fa-youtube"
-      url: https://www.youtube.com/@vidhyav656/
+    
 
 
 # Reading Files
